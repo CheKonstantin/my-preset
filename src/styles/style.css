@@ -1,8 +1,11 @@
 .title {
-  font-size: 300px;
   color: green;
+  font-size: 300px;
 }
 
 .rer {
+  display: flex;
+  border: 1px solid red;
+  padding: 20px;
   font-size: 40px;
 }
